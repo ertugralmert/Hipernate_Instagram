@@ -19,3 +19,11 @@ e
 5src/main/java/com/mert/repository/LikeRepository.java,4/a/4a4a45e04bb7e72e2c97e56e0c5f4e89515f6ca7
 e
 5src/main/java/com/mert/repository/PostRepository.java,9/b/9b5303e7990eea313d85abe31f10a30a351220a2
+Z
+*src/main/java/com/mert/view/VwComment.java,7/0/70cba92e53d648d3e4e5882c02dd40a1f329caab
+W
+'src/main/java/com/mert/entity/Post.java,c/8/c8ca2f5ef8b08edc161435275f087773e9eab6e4
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e

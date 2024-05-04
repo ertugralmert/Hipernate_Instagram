@@ -1,4 +1,4 @@
-- Hibernate anladım
+- Hibernate anlatım
 - General method oluşuturulması
 - Named Query
 - NativeSQL

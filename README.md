@@ -1,0 +1,5 @@
+- Hibernate anladım
+- General method oluşuturulması
+- Named Query
+- NativeSQL
+- 

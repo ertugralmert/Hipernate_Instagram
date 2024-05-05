@@ -19,6 +19,25 @@ public class PostRepository {
         em = emf.createEntityManager();
         criteriaBuilder = em.getCriteriaBuilder();
     }
+    public void openSession(){
+        this.em = emf.createEntityManager();
+        em.getTransaction().begin();
+    }
+    public void closeSession(){
+        em.getTransaction().commit();
+        em.close();
+    }
+    public void rollBack(){
+        em.getTransaction().rollback();
+        em.close();
+    }
+
+    public Post save(Post post){
+        openSession();
+        em.persist(post);
+        closeSession();
+        return post;
+    }
 
     public List<Post> findAll(){
         CriteriaQuery<Post> criteriaQuery = criteriaBuilder.createQuery(Post.class);

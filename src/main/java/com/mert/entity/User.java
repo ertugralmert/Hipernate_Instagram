@@ -7,7 +7,11 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-
+@NamedQueries({
+        @NamedQuery(name = "User.isExist", query = "SELECT count(u)>0 FROM User u WHERE u.username = :username"),
+        @NamedQuery(name ="User.findByUsernameAndPassword",
+        query = "SELECT u FROM User u WHERE u.username = :username AND u.password = :password")
+})
 @Data //
 @AllArgsConstructor //
 @NoArgsConstructor // parametreli constructor ların tümü

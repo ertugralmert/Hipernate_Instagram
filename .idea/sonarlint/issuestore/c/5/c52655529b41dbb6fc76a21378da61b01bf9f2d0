@@ -1,0 +1,25 @@
+
+„
+java:S1854&"<Remove this useless assignment to local variable "location".(¼†ú£úÿÿÿÿ8ÖÁì½ô1J$d63323f0-0ac6-4b40-b400-3b898a55d3ab
+
+java:S1854$"<Remove this useless assignment to local variable "imageUrl".(„şùä8ÖÁì½ô1J$6a3d5c8b-991b-403d-9acf-6c26d9ecbbaf
+ƒ
+java:S1854"";Remove this useless assignment to local variable "comment".(È‚â©ùÿÿÿÿ8×Áì½ô1J$cc07fc4c-ae0f-4418-8ada-079134b4dfdb
+
+java:S1854 "<Remove this useless assignment to local variable "userName".(©Ñìä8×Áì½ô1J$a2ac8f05-f464-49e8-8483-0b3e13b95893
+m	java:S106"+Replace this use of System.out by a logger.(Îñë8€»ë½ô1J$b74bdeab-f80e-4505-8f31-cf7bd41686f2
+r	java:S106"+Replace this use of System.out by a logger.(¢Ïó’şÿÿÿÿ8»ë½ô1J$33951355-e972-4b12-bd6e-1cc8027ad158
+p
+java:S1481 "-Remove this unused "userName" local variable.(©Ñìä8ÙÁì½ô1J$4f6cef8b-3ac5-46c4-8e0c-96c5299c4e1f
+r	java:S106!"+Replace this use of System.out by a logger.(·ÿóİıÿÿÿÿ8ƒ»ë½ô1J$d3d0177c-2238-47e1-ad74-c1890e0aceab
+t
+java:S1481"",Remove this unused "comment" local variable.(È‚â©ùÿÿÿÿ8ÚÁì½ô1J$c9e2ea65-a415-4400-accc-ae6551bd737e
+m	java:S106#"+Replace this use of System.out by a logger.(ºŒœ8ƒ»ë½ô1J$0191bb07-da95-4403-8576-864818c15f07
+p
+java:S1481$"-Remove this unused "imageUrl" local variable.(„şùä8ÚÁì½ô1J$5e8f7d4f-abc5-4fdb-a154-da0e057f82ba
+r	java:S106%"+Replace this use of System.out by a logger.(´½Ê”ıÿÿÿÿ8ƒ»ë½ô1J$ddceeb2d-b535-4d8f-8b15-dd87775ae663
+u
+java:S1481&"-Remove this unused "location" local variable.(¼†ú£úÿÿÿÿ8ÚÁì½ô1J$45a022f2-a21b-49d4-8a07-d64bf3355086
+~	java:S125'"<This block of commented-out lines of code should be removed.(×Ç½8ÛÁì½ô1J$85f7313d-cd96-4d68-807e-bf8a9cca596a
+w
+java:S1068	"/Remove this unused "postService" private field.(Ü¹åùÿÿÿÿ8ÛÁì½ô1J$9b033746-2eaf-4c47-95ba-0ed7b3987b1e

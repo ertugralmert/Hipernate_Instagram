@@ -1,5 +1,6 @@
 package com.mert.controller;
 
+import com.mert.entity.User;
 import com.mert.service.UserService;
 import com.mert.utility.Response;
 
@@ -58,7 +59,7 @@ public class UserController {
         String userName = new Scanner(System.in).nextLine();
         System.out.println("Sifre: ");
         String password = new Scanner(System.in).nextLine();
-        Response<Boolean> response = userService.login(userName, password);
+        Response<User> response = userService.login(userName, password);
         if(response.getStatusCode()==400 || response.getStatusCode()==500){
             System.out.println(response.getMessage());
         }else{

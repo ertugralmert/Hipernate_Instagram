@@ -1,11 +1,11 @@
 
 Š
 java:S1854
-"BRemove this useless assignment to local variable "userController".(ìà”¼ûÿÿÿÿ8˜º¾ô1J$95b5f0c2-b819-4e6c-b518-d4694f118351
+"BRemove this useless assignment to local variable "userController".(ìà”¼ûÿÿÿÿ8˜º¾ô1J$3478f905-0b4c-432e-92f7-318734f5f723
 {
 java:S1481
-"3Remove this unused "userController" local variable.(ìà”¼ûÿÿÿÿ8™º¾ô1J$57d47876-4ccc-4fc3-b763-ecf482da6fed
-m	java:S106"+Replace this use of System.out by a logger.(Îñë8™º¾ô1J$f133ae75-62b4-4e32-b32e-0bd0e10d78e0
-m	java:S106"+Replace this use of System.out by a logger.(¼ò¯ú8™º¾ô1J$4db49c45-ba81-4bbd-91ab-a510c1524ec7
-l	java:S106"+Replace this use of System.out by a logger.(º±£W8›º¾ô1J$d93d3c19-27c0-4165-92cd-b265f2a6392e
-r	java:S106!"+Replace this use of System.out by a logger.(ã†æáÿÿÿÿÿ8›º¾ô1J$c9731c64-c89b-4ad6-8d49-40ba44167df9
+"3Remove this unused "userController" local variable.(ìà”¼ûÿÿÿÿ8™º¾ô1J$a582f753-74fd-4410-ae32-9ec2ef09e665
+m	java:S106"+Replace this use of System.out by a logger.(Îñë8™º¾ô1J$bb48c71b-2c27-4b08-a7e6-8f583d2e20da
+m	java:S106"+Replace this use of System.out by a logger.(¼ò¯ú8™º¾ô1J$dd26dcab-caf0-45d5-9869-60ec0fe57090
+l	java:S106"+Replace this use of System.out by a logger.(º±£W8›º¾ô1J$003d92d2-336b-4d1b-8161-ad06c82247c2
+r	java:S106!"+Replace this use of System.out by a logger.(ã†æáÿÿÿÿÿ8›º¾ô1J$c3eaa6e8-596b-40e4-befe-8281de8700c8
